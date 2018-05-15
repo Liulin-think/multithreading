@@ -1,6 +1,7 @@
 package com.liulin.study.multithreading.o1;
 
 /**
+ * 第一章:多线程基础知识
  * 线程的创建与启动
  * 
  * @author liulin_think
