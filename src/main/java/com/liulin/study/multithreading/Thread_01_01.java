@@ -24,7 +24,7 @@ public class Thread_01_01 {
 		myThread2.start();
 	}
 
-	class MyThread extends Thread {
+	private class MyThread extends Thread {
 
 		@Override
 		public void run() {
@@ -33,7 +33,7 @@ public class Thread_01_01 {
 
 	}
 
-	class MyRunnable implements Runnable {
+	private class MyRunnable implements Runnable {
 		@Override
 		public void run() {
 			System.out.println("这是MyRunnable的run方法");
