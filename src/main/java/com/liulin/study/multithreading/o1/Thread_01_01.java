@@ -1,4 +1,4 @@
-package com.liulin.study.multithreading;
+package com.liulin.study.multithreading.o1;
 
 /**
  * 线程的创建与启动

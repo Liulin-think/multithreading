@@ -1,4 +1,4 @@
-package com.liulin.study.multithreading;
+package com.liulin.study.multithreading.o1;
 
 /**
  * 实例变量与线程安全 注:

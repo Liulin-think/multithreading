@@ -1,4 +1,4 @@
-package com.liulin.study.multithreading;
+package com.liulin.study.multithreading.o1;
 
 /**
  * 停止线程

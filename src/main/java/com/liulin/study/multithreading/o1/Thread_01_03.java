@@ -1,4 +1,4 @@
-package com.liulin.study.multithreading;
+package com.liulin.study.multithreading.o1;
 
 /**
  * isAlive()方法： 判断当前的线程是否处于活动状态

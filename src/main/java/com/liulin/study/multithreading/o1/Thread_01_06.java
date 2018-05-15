@@ -1,4 +1,4 @@
-package com.liulin.study.multithreading;
+package com.liulin.study.multithreading.o1;
 
 /**
  * 暂停线程与恢复线程

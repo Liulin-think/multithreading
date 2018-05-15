@@ -1,4 +1,4 @@
-package com.liulin.study.multithreading;
+package com.liulin.study.multithreading.o1;
 
 /**
  * yield()方法的作用是:放弃当前CPU资源,将它让给其他任务去占用CPU执行时间,但放弃的时间不确定,有可能刚放弃,马上又活动CPU时间片
